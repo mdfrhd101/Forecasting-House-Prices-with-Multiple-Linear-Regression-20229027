@@ -1,5 +1,5 @@
-<b>Forecasting-House-Prices-with-Multiple-Linear-Regression<b>
-<br>
+<b><h1>Forecasting-House-Prices-with-Multiple-Linear-Regression<h1><b>
+<br><br>
 A Project on Forecasting House Prices with Multiple Linear Regression: An Analysis on OpenML House_Prices Dataset
 <br><br>
 Abstract<br>
@@ -17,5 +17,5 @@ Group members:<br>
 H.M. Taiful Islam (ID:20229009)<br>
 Iqbal Habib (ID:20229014)<br>
 Md. Ashfiqul Islam (ID:20229015)<br>
-Md. Farhad Hossain (ID:20229027)<br>
+MD. Farhad Hossain (ID:20229027)<br>
 Md. Mahmudul Hasan (ID:20229037)<br>
