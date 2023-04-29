@@ -1,4 +1,4 @@
-<b><h1>Forecasting-House-Prices-with-Multiple-Linear-Regression<h1><b>
+<b>Forecasting-House-Prices-with-Multiple-Linear-Regression<b>
 <br><br>
 A Project on Forecasting House Prices with Multiple Linear Regression: An Analysis on OpenML House_Prices Dataset
 <br><br>
